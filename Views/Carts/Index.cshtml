@@ -1,0 +1,131 @@
+﻿@model IEnumerable<Souq.Models.Cart>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="page-header" style="background: url(assets/img/banner1.jpg);">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="breadcrumb-wrapper">
+                    <h2 class="product-title">Carts</h2>
+                    <ol class="breadcrumb">
+                        <li><a href="/Home/index">Home /</a></li>
+                        <li class="current">Carts</li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+@* 
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.DateTime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price )
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Quentity)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UserID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.product.Name)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateTime)
+            </td>
+            <td>
+                    @Html.DisplayFor(modelItem => item.Price )
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Quentity)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.product.Name)
+            </td>
+            <td>
+                    <a asp-action="Edit" class="btn btn-common btn-filters" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Details" class="btn btn-common btn-filters" asp-route-id="@item.Id">Details</a> |
+                    <a asp-action="Delete" class="btn btn-common btn-filters" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody> *@
+  @*   <a href="/Carts/AddOrder/@item.Id" class="btn btn-common float-right">Check out</a> *@
+
+</table>
+<section class="featured section-padding">
+    <div class="container">
+        <span class="btn btn-common io" style="background-color:#555555">All Price :$@Model.Sum(item => item.TotalPrice)</span>
+        <h1 class="section-title"> My Items</h1>
+        <div class="row">
+
+            @foreach (var item in Model)
+            {
+                <div class="col-xs-6 col-sm-6 col-md-6 col-lg-4">
+                    <a><span class="price">$@Html.DisplayFor(model => item.Price)</span></a>
+                    <div class="featured-box">
+                        <figure>
+                        
+
+                            <a href="#"><img class="img-fluid" src="~/Imgs/@item.product.Image" alt=""></a>
+                        </figure>
+                        <div class="feature-content">
+                            <div class="product">
+                                <a href="#">Electronic &gt; </a>
+                                <a href="#">Cameras</a>
+                            </div>
+                            <h4><a href="ads-details.html"> @Html.DisplayFor(modelItem => item.product.Name)</a></h4>
+                            <div class="meta-tag">
+                                <span>
+                                    <a href="#"><i class="lni-user"></i>  @Html.DisplayFor(modelItem => item.UserID)</a>
+                                </span>
+                                <span>
+                                    <a href="#"><i class="lni-map-marker"></i>   @Html.DisplayFor(modelItem => item.DateTime)</a>
+                                </span>
+                                <span>
+                                    <a href="#"><i class="lni-tag"></i>  @Html.DisplayFor(modelItem => item.Quentity) Pieces</a>
+                                </span>
+                            </div>
+                            <p class="dsc"> @Html.DisplayFor(modelItem => item.product.Description)</p>
+                            <div class="listing-bottom">
+                                <h3 class="price float-left">$@item.TotalPrice</h3>
+                              
+
+                            </div>
+                        </div>
+                     @*        <a asp-action="Edit" class="btn btn-common btn-filters" asp-route-id="@item.Id">Edit</a> |
+                            <a asp-action="Details" class="btn btn-common btn-filters" asp-route-id="@item.Id">Details</a>  *@
+                            <a asp-action="Delete" class="btn btn-common btn-filters" asp-route-id="@item.Id">Delete</a>
+                    
+                    </div>
+                </div>
+            }
+          
+        </div>
+        <a href="/Carts/GoFormOrder" class="btn btn-common io" type="submit" style="margin-left:500px; background-color:#555555; font-weight:bold">  Order</a>
+        
+    </div>
+
+</section>
+<a asp-action="Index" asp-controller="Home" class="btn btn-common" style="margin-left:50px;">Back </a>
+

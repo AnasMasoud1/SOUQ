@@ -1,0 +1,68 @@
+﻿@model Souq.Models.Review
+@{
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Review :</h4>
+<hr />
+
+
+<div class="col-sm-12 col-xl-9" style="margin-left:23px;">
+    <div class="bg-secondary rounded h-100 p-4">
+        <h6 class="mb-4">Review Table</h6>
+        <table class="table table-hover">
+
+            <tbody>
+
+                <tr>
+                    <form asp-action="Edit">
+                    <th scope="row">1</th>
+                    <td>
+                        <div class="form-group">
+                            <label asp-for="Name" class="control-label"></label>
+                            <input asp-for="Name" class="form-control" />
+                            <span asp-validation-for="Name" class="text-danger"></span>
+                        </div>
+                    </td>
+                    <td>
+                        <div class="form-group">
+                            <label asp-for="Subject" class="control-label"></label>
+                            <input asp-for="Subject" class="form-control" />
+                            <span asp-validation-for="Subject" class="text-danger"></span>
+                        </div>
+                    </td>
+                    <td>
+                        <div class="form-group">
+                            <label asp-for="Email" class="control-label"></label>
+                            <input asp-for="Email" class="form-control" />
+                            <span asp-validation-for="Email" class="text-danger"></span>
+                        </div>
+                    </td>
+                    <td>
+                        <div class="form-group">
+                            <label asp-for="message" class="control-label"></label>
+                            <input asp-for="message" class="form-control" />
+                            <span asp-validation-for="message" class="text-danger"></span>
+                        </div>
+                    </td>
+                    <td>
+
+                        <div class="form-group" >
+                            <input type="submit" value="Save" class="btn btn-primary wer" />
+                            <a asp-action="Index" class="btn btn-primary wer">Back </a>
+                        </div>
+                       
+
+                    </td>
+                    </form>
+                </tr>
+
+            </tbody>
+        </table>
+    </div>
+</div>

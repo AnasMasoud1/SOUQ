@@ -1,0 +1,61 @@
+﻿@model List<Product>
+<div class="page-header" style="background: url(assets/img/banner1.jpg);">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="breadcrumb-wrapper">
+                    <h2 class="product-title">Categories</h2>
+                    <ol class="breadcrumb">
+                        <li><a href="#">Home /</a></li>
+                        <li class="current">Categories</li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<section class="featured section-padding">
+    <div class="container">
+        <h1 class="section-title">Latest Products</h1>
+        <div class="row">
+
+            @foreach (var item in Model)
+            {
+                <div class="col-xs-6 col-sm-6 col-md-6 col-lg-4">
+                    <div class="featured-box">
+                        <figure>
+                            <div class="icon">
+                                <span class="bg-green"></span>
+                                <a href="/Carts/AddProductToCart/@item.Id"><img src="~/assets/img/icons8-add-to-cart-80.png" title="Add To Cart" width="50" /></a>
+                            </div>
+                            <a href="#"><img class="img-fluid" src="~/Imgs/@item.Image" alt=""></a>
+                        </figure>
+                        <div class="feature-content">
+                     @*        <div class="product">
+                                <a href="#">Electronic &gt; </a>
+                                <a href="#">Cameras</a>
+                            </div> *@
+                            <h4><a href="ads-details.html">@item.Name</a></h4>
+                            <div class="meta-tag">
+                                <span>
+                                    <a href="#"><i class="lni-user"></i> @item.UserID</a>
+                                </span>
+                                <span>
+                                    <a href="#"><i class="lni-map-marker"></i>@item.CreatedDate</a>
+                                </span>
+                                <span>
+                                    <a href="#"><i class="lni-tag"></i> @item.category.Name</a>
+                                </span>
+                            </div>
+                            <p class="dsc"> @item.Description</p>
+                            <div class="listing-bottom">
+                                <h3 class="price float-left">$@item.Price</h3>
+                                <a href="ads-details.html" class="btn btn-common float-right">View Details</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</section>

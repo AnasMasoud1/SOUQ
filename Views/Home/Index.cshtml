@@ -1,0 +1,80 @@
+﻿
+@model Souq.Models.IndexVM
+<div id="hero-area">
+    <div class="overlay"></div>
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-12 col-lg-9 col-xs-12 text-center">
+                <div class="contents">
+                    <h1 class="head-title">Welcome to The Largest <span class="year">Marketplace</span></h1>
+                    <p>Buy and sell everything from used Labtops to mobile phones and Tablets, or search for property, TVs and more</p>
+                    <div class="search-bar">
+                        <div class="search-inner">
+                            <form asp-action="ProductSearch" asp-controller="Home" class="search-form">
+                                <div class="form-group">
+                                    <input type="text" name="xname" class="form-control" placeholder="What are you looking for?">
+                                </div>
+                               
+                               
+                                <button class="btn btn-common" type="submit"><i class="lni-search"></i> Search Now</button>
+                            </form>
+                        </div>
+                    </div>
+                  
+                   
+                    <a href="/Home/FilterByPrice" class="btn btn-common btn-filters" type="submit"> Filter by Price</a>
+                    <a href="/Home/FilterByDate" class="btn btn-common btn-filters" type="submit"> Filter by Date</a>
+                   
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+  
+<section class="featured section-padding">
+    <div class="container">
+        <h1 class="section-title">Latest Products</h1>
+        <div class="row">
+          
+            @foreach (var item in Model.Products)
+            {
+                <div class="col-xs-6 col-sm-6 col-md-6 col-lg-4">
+                    <div class="featured-box">
+                        <figure>
+                            <div class="icon">
+                                <span class="bg-green"></span>
+                                <a href="/Carts/AddProductToCart/@item.Id"><img src="~/assets/img/icons8-add-to-cart-80.png" title="Add To Cart" width="50" /></a>
+                            </div>
+                            
+                            <a href="#"><img class="img-fluid" src="~/Imgs/@item.Image" alt=""></a>
+                        </figure>
+                        <div class="feature-content">
+                            <h4><a href="ads-details.html">@item.Name</a></h4>
+                            <div class="meta-tag">
+                                <span>
+                                    <a href="#"><i class="lni-user"></i> @item.UserID</a>
+                                </span>
+                                <span>
+                                    <a href="#"><i class="lni-map-marker"></i> @item.CreatedDate</a>
+                                </span>
+                                <span>
+                                    <a href="#"><i class="lni-tag"></i> @item.category.Name</a>
+                                </span>
+                            </div>
+                            <p class="dsc">@item.Description</p>
+                            <div class="listing-bottom">
+                                <h3 class="price float-left">$@item.Price</h3>
+                                <a href="/Home/CurrentProduct/@item.Id" class="btn btn-common float-right">View Details</a>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</section>
+
+
+
+

@@ -1,0 +1,68 @@
+﻿@model IEnumerable<Souq.Models.Product>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="page-header" style="background: url(assets/img/banner1.jpg);">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="breadcrumb-wrapper">
+                    <h2 class="product-title">Products</h2>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<section class="featured section-padding">
+    <div class="container">
+        <h1 class="section-title">My Products</h1>
+        <div class="row">
+
+            @foreach (var item in Model)
+            {
+                <div class="col-xs-6 col-sm-6 col-md-6 col-lg-4">
+                    <div class="featured-box">
+                        <figure>
+                            <div class="icon">
+                                <span class="bg-green"></span>
+                                <a href="/Carts/AddProductToCart/@item.Id"><img src="~/assets/img/icons8-add-to-cart-80.png" title="Add To Cart" width="50" /></a>
+                            </div>
+
+                            <a href="#"><img class="img-fluid" src="~/Imgs/@item.Image" alt=""></a>
+                        </figure>
+                        <div class="feature-content">
+                         
+                            <h4><a href="ads-details.html">@item.Name</a></h4>
+                            <div class="meta-tag">
+                                <span>
+                                    <a href="#"><i class="lni-user"></i>  @Html.DisplayFor(model => item.UserID)</a>
+                                </span>
+                                <span>
+                                    <a href="#"><i class="lni-map-marker"></i> @Html.DisplayFor(modelItem => item.CreatedDate)</a>
+                                </span>
+                                <span>
+                                    <a href="#"><i class="lni-tag"></i> @Html.DisplayFor(modelItem => item.category.Name)</a>
+                                </span>
+                            </div>
+                            <p class="dsc">@Html.DisplayFor(modelItem => item.Description) .</p>
+                            <div class="listing-bottom">
+                                <h3 class="price float-left">$@item.Price</h3>
+                                <a href="/Home/CurrentProduct/@item.Id" class="btn btn-common float-right">View Details</a>
+
+                            </div>
+                        </div>
+                        <a asp-action="Edit" asp-route-id="@item.Id"    class="btn btn-common">Edit</a>
+                        <a asp-action="Delete" asp-route-id="@item.Id"  class="btn btn-common">Delete</a>
+                    </div>
+                </div>
+            }
+          
+        </div>
+        <p>
+            <a asp-action="Create" class="btn btn-common">Create New</a>
+        </p>
+    </div>
+</section>

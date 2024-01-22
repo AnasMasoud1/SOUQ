@@ -1,0 +1,60 @@
+﻿@model Souq.Models.Category
+@{
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Category :</h4>
+<hr />
+
+
+<div class="col-sm-12 col-xl-6" style="margin-left:23px;">
+    <div class="bg-secondary rounded h-100 p-4">
+        <h6 class="mb-4">Category Table</h6>
+        <table class="table table-hover">
+        
+            <tbody>
+
+                <tr>
+                    <form asp-action="Edit">
+                    <th scope="row">1</th>
+                    <td>
+                        <div class="form-group">
+                            <label asp-for="Name" class="control-label"></label>
+                            <input asp-for="Name" class="form-control" />
+                            <span asp-validation-for="Name" class="text-danger"></span>
+                        </div>
+                    </td>
+                    <td>
+                        <div class="form-group">
+                            <label asp-for="Description" class="control-label"></label>
+                            <input asp-for="Description" class="form-control" />
+                            <span asp-validation-for="Description" class="text-danger"></span>
+                        </div>
+                    </td>
+                    <td>
+                        <div class="form-group">
+                            <label asp-for="Image" class="control-label"></label>
+                            <input asp-for="Image" class="form-control" />
+                            <span asp-validation-for="Image" class="text-danger"></span>
+                        </div>
+                    </td>
+                    <td>
+
+                        <div class="form-group">
+                            <input type="submit" value="Save" class="btn btn-primary wer" />
+                        </div>
+                        <a asp-action="Index" class="btn btn-primary wer">Back </a>
+
+                    </td>
+                    </form>
+                </tr>
+
+            </tbody>
+        </table>
+    </div>
+</div>

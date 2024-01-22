@@ -1,0 +1,110 @@
+﻿@model Souq.Models.Cart
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Cart</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.DateTime)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DateTime)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Price)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.TotalPrice)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.TotalPrice)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Quentity)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Quentity)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.UserID)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.UserID)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.product)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.product.Name)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" class="btn btn-common btn-filters" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="Index" class="btn btn-common btn-filters">Back to List</a>
+</div>
+<br />
+<br />
+ <section class="featured section-padding">
+    <div class="container">
+        <h1 class="section-title">Product Details</h1>
+        <div class="row">
+            
+           
+                <div class="col-xs-6 col-sm-6 col-md-6 col-lg-4">
+                    <div class="featured-box">
+                        @* <figure>
+                            <div class="icon">
+                                <span class="bg-green"></span>
+                                <a href="/Carts/AddProductToCart/@item.Id"><img src="~/assets/img/icons8-add-to-cart-80.png" /></a>
+                            </div>
+
+                            <a href="#"><img class="img-fluid" src="~/Imgs/@item.Image" alt=""></a>
+                        </figure>  *@
+                    <a><span class="price">$@Html.DisplayFor(model => model.Price)</span></a>
+                        <div class="feature-content">
+                            <div class="product">
+                            <a href="#">@Html.DisplayFor(model => model.product.CategoryId) </a>
+                                
+                            </div>
+                        <h4><a href="ads-details.html">@Html.DisplayFor(model => model.product.Name)</a></h4>
+                        
+                            <div class="meta-tag">
+                                <span>
+                                <a href="#"><i class="lni-user"></i> @Html.DisplayFor(model => model.Quentity) Piece</a>
+                                </span>
+                                <span>
+                                <a href="#"><i class="lni-map-marker"></i> @Html.DisplayFor(model => model.DateTime)</a>
+                                </span>
+                                <span>
+                                    <a href="#"><i class="lni-tag"></i> Canon</a>
+                                </span>
+                            </div>
+                        <p class="dsc">@Html.DisplayFor(model => model.product.Description)</p>
+                            <div class="listing-bottom">
+                            <h3 class="price float-left">$ @Html.DisplayFor(model => model.TotalPrice)</h3>
+                              
+
+                            </div>
+                        </div>
+                    </div>
+                <div>
+                    <a asp-action="Edit" class="btn btn-common btn-filters" asp-route-id="@Model?.Id">Edit</a> |
+                    <a asp-action="Index" class="btn btn-common btn-filters">Back to List</a>
+                </div>
+                </div>
+            
+        </div>
+    </div>
+</section> 
+<br />
+<br />

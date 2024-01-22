@@ -1,0 +1,54 @@
+﻿@model IEnumerable<Souq.Models.FAQ>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="page-header" style="background: url(assets/img/banner1.jpg);">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="breadcrumb-wrapper">
+                    <h2 class="product-title">FAQ</h2>
+                    <ol class="breadcrumb">
+                        <li><a href="#">Home /</a></li>
+                        <li class="current">FAQ</li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="faq section-padding">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="head-faq text-center">
+                    <h2 class="section-title">Frequently Asked Questions</h2>
+                </div>
+
+                <div class="panel-group" id="accordion">
+                    @foreach (var item in Model)
+                    {
+                        <div class="panel panel-default">
+                            <div class="panel-heading">
+                                <h4 class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#accordion" href="#@($"collapse{item.Id}")" aria-expanded="false" class="collapsed">
+                                        @Html.DisplayFor(modelItem => item.Question)
+                                    </a>
+                                </h4>
+                            </div>
+                            <div id="@($"collapse{item.Id}")" class="panel-collapse collapse" style="">
+                                <div class="panel-body">
+                                    <p> @Html.DisplayFor(modelItem => item.Answer)</p>
+                                </div>
+                            </div>
+           
+                        </div>
+                    }
+                   
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+

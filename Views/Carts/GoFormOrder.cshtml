@@ -1,0 +1,63 @@
+﻿<div class="page-header" style="background: url(assets/img/banner1.jpg);">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="breadcrumb-wrapper">
+                    <h2 class="product-title">Make Order</h2>
+                    <ol class="breadcrumb">
+                        <li><a href="#">Home /</a></li>
+                        <li class="current">Make Order</li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<section id="content" class="section-padding">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-md-8 col-xs-12">
+
+                <form asp-action="AddOrder" asp-controller="Carts" method="post" class="contact-form">
+                    <h2 class="contact-title">
+                       Order Informations
+                    </h2>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="row">
+                                <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
+                                    <div class="form-group">
+                                        <input type="text" class="form-control" id="Name" name="Name" placeholder="Name" required="" data-error="Please enter your name">
+                                        <div class="help-block with-errors"></div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
+                                    <div class="form-group">
+                                        <input type="email" class="form-control" id="Email" name="Email" placeholder=" Email" required="" data-error="Please enter your email">
+                                        <div class="help-block with-errors"></div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
+                                    <div class="form-group">
+                                        <input type="text" class="form-control" id="Address" name="Address" placeholder="Address" required="" data-error="Please enter your Address">
+                                        <div class="help-block with-errors"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-12 col-md-12 col-lg-4">
+                            <div class="form-group">
+                                <input type="text" class="form-control" id="PhoneNumber" name="PhoneNumber" placeholder="PhoneNumber" required="" data-error="Please enter your PhoneNumber">
+                                <div class="help-block with-errors"></div>
+                        </div>
+                        <div class="col-md-12">
+                            <button type="submit" onclick="alert('Send sucsess')" id="submit" class="btn btn-common " style="pointer-events: all; cursor: pointer;">Submit Now</button>
+                            <div id="msgSubmit" class="h3 text-center hidden"></div>
+                            <div class="clearfix"></div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+          
+

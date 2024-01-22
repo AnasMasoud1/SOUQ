@@ -1,0 +1,60 @@
+﻿@model Souq.Models.FAQ
+@{
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>FAQ</h1>
+
+<h4>Edit Question</h4>
+<hr />
+
+
+<div class="col-sm-12 col-xl-6" style="margin-left:23px;">
+    <div class="bg-secondary rounded h-100 p-4">
+        <h6 class="mb-4">FAQ Table</h6>
+        <table class="table table-hover">
+          @*   <thead>
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Question</th>
+                    <th scope="col">Answer</th>
+                    <th scope="col">Action</th>
+                </tr>
+            </thead> *@
+            <tbody>
+
+                <tr>
+                     <form asp-action="Edit">
+                    <th scope="row">1</th>
+                    <td>
+                        <div class="form-group">
+                            <label asp-for="Question" class="control-label"></label>
+                            <input asp-for="Question" class="form-control" />
+                            <span asp-validation-for="Question" class="text-danger"></span>
+                        </div>
+                    </td>
+                    <td>
+                        <div class="form-group">
+                            <label asp-for="Answer" class="control-label"></label>
+                            <input asp-for="Answer" class="form-control" />
+                            <span asp-validation-for="Answer" class="text-danger"></span>
+                        </div>
+                    </td>
+                    <td>
+                   
+                            <div class="form-group">
+                            <input type="submit" value="Save" class="btn btn-primary wer" />
+                            </div>
+                            <a asp-action="Index" class="btn btn-primary wer">Back </a>
+                      
+                    </td>
+                    </form>
+                </tr>
+
+            </tbody>
+        </table>
+    </div>
+</div>

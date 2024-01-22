@@ -1,0 +1,227 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>SOUQ</title>
+    <link rel="icon" type="image/x-icon" href="~/assets/img/icons8-shopify-50.png">
+   
+<link rel="stylesheet" type="text/css" href="~/assets/css/bootstrap.min.css">
+
+<link rel="stylesheet" type="text/css" href="~/assets/fonts/line-icons.css">
+
+<link rel="stylesheet" type="text/css" href="~/assets/css/slicknav.css">
+
+<link rel="stylesheet" type="text/css" href="~/assets/css/color-switcher.css">
+
+<link rel="stylesheet" type="text/css" href="~/assets/css/animate.css">
+
+<link rel="stylesheet" type="text/css" href="~/assets/css/owl.carousel.css">
+
+<link rel="stylesheet" type="text/css" href="~/assets/css/main.css">
+
+<link rel="stylesheet" type="text/css" href="~/assets/css/responsive.css">
+    <script src="~/assets/js/jquery-min.js"></script>
+    <script src="~/assets/js/jquery.counterup.min.js"></script>
+    <script src="~/assets/js/jquery.slicknav.js"></script>
+</head>
+<body>
+
+<header id="header-wrap">
+
+<div class="top-bar">
+<div class="container">
+<div class="row">
+<div class="col-lg-7 col-md-5 col-xs-12">
+
+<ul class="list-inline">
+<li><i class="lni-phone"></i> +966-532317652</li>
+                            <li><i class="lni-envelope"></i> anas.masoud9@gmail.com</li>
+</ul>
+
+</div>
+<div class="col-lg-5 col-md-7 col-xs-12">
+<div class="roof-social float-right">
+<a class="facebook" href="#"><i class="lni-facebook-filled"></i></a>
+<a class="twitter" href="#"><i class="lni-twitter-filled"></i></a>
+<a class="instagram" href="#"><i class="lni-instagram-filled"></i></a>
+<a class="linkedin" href="#"><i class="lni-linkedin-fill"></i></a>
+<a class="google" href="#"><i class="lni-google-plus"></i></a>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+
+
+<nav class="navbar navbar-expand-lg bg-white fixed-top scrolling-navbar">
+<div class="container">
+
+<div class="navbar-header">
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
+<span class="navbar-toggler-icon"></span>
+<span class="lni-menu"></span>
+<span class="lni-menu"></span>
+<span class="lni-menu"></span>
+</button>
+                    <a href="index-2.html" class="navbar-brand"><img src="~/assets/img/souq.icon1.png" alt=""></a>
+</div>
+<div class="collapse navbar-collapse" id="main-navbar">
+<ul class="navbar-nav mr-auto w-100 justify-content-center">
+<li class="nav-item dropdown">
+<a class="nav-link " href="/Home/Index" >
+Home
+</a>
+
+</li>
+<li class="nav-item">
+<a class="nav-link" href="/Home/Category">
+ Categories
+</a>
+</li>
+                        <li class="nav-item ">
+                            <a class="nav-link" href="/FAQs/FAQtab">
+                               FAQ
+                            </a>
+                        </li>
+
+                        <li class="nav-item ">
+                            <a class="nav-link" href="/Products/index">
+                              Products
+                            </a>
+                        </li>
+<li class="nav-item ">
+                            <a class="nav-link" href="/Home/SendReview">
+Contact
+</a>
+</li>
+                        <partial name="_LoginPartial"  />
+</ul>
+<div class="post-btn ">
+                        <a class="btn btn-common" href="/Carts/index"><i class="lni-wallet "></i> My Cart</a>
+</div>
+                     <div class="post-btn ">
+                      @*   <a class="btn btn-common" href="/Products/Create"><i class="lni-pencil-alt "></i> Post </a>
+                   *@
+                        <a href="/Products/Create" class="btn btn-common io" type="submit"> Post</a>
+                    </div>
+
+                </div>
+</div>
+
+
+</nav>
+
+</header>
+
+
+@* <div class="page-header" style="background: url(~/assets/img/banner1.jpg);">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<div class="breadcrumb-wrapper">
+<h2 class="product-title">Contact Us</h2>
+<ol class="breadcrumb">
+<li><a href="#">Home /</a></li>
+<li class="current">Contact Us</li>
+</ol>
+</div>
+</div>
+</div>
+</div>
+</div> *@
+    <main>@RenderBody()</main>
+
+
+
+
+    <footer style="margin-top:50px;">
+<section class="footer-Content">
+<div class="container">
+<div class="row">
+<div class="col-lg-4 col-md-4 col-xs-6 col-mb-12">
+<div class="widget">
+                            <div class="footer-logo"><img id="dds" src="~/assets/img/souq.icon1-removebg-preview.png" alt=""></div>
+<div class="textwidget">
+<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt consectetur, adipisci velit.</p>
+</div>
+<ul class="mt-3 footer-social">
+<li><a class="facebook" href="#"><i class="lni-facebook-filled"></i></a></li>
+                                <li><a class="lni-github" href="#"><i class="lni-github-filled"></i></a></li>
+<li><a class="linkedin" href="#"><i class="lni-linkedin-fill"></i></a></li>
+<li><a class="google-plus" href="#"><i class="lni-google-plus"></i></a></li>
+</ul>
+</div>
+</div>
+<div class="col-lg-4 col-md-4 col-xs-6 col-mb-12">
+<div class="widget">
+<h3 class="block-title">Quick Link</h3>
+<ul class="menu">
+<li><a href="/Home/AboutUs">- About Us</a></li>
+
+<li><a href="/FAQs/FAQtab">- FAQ's</a></li>
+<li><a class="nav-link" href="/Home/SendReview">- Contact</a></li>
+<li class="nav-item"><a class="nav-link" href="/Home/Category"> -Categories</a></li>
+<li class="nav-item "><a class="nav-link" href="/Products/index">- Products</a></li>
+<li class="nav-item "><a class="nav-link" href="/Carts/index">- My Cart</a></li>
+
+
+</ul>
+</div>
+</div>
+<div class="col-lg-4 col-md-4 col-xs-6 col-mb-12">
+<div class="widget">
+<h3 class="block-title">Contact Info</h3>
+<ul class="contact-footer">
+<li>
+                                    <strong><i class="lni-phone"></i></strong><span>+966-532317652 <br> +966-532317652</span>
+</li>
+                                <li><span>anas.masoud9@gmail.com <br> <a href="mailto:anas.masoud9@gmail.com">Send email</a></span></li>
+<li>
+<strong><i class="lni-map-marker"></i></strong><span><a href="#">Saudi Arabia <br>Riyadh</a></span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+
+
+
+</footer>
+
+
+<a href="#" class="back-to-top">
+<i class="lni-chevron-up"></i>
+</a>
+
+<div id="preloader">
+<div class="loader" id="loader-1"></div>
+</div>
+
+
+<script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+<script src="~/assets/js/popper.min.js"></script>
+<script src="~/assets/js/bootstrap.min.js"></script>
+<script src="~/assets/js/color-switcher.js"></script>
+<script src="~/assets/js/waypoints.min.js"></script>
+<script src="~/assets/js/wow.js"></script>
+<script src="~/assets/js/owl.carousel.min.js"></script>
+<script src="~/assets/js/main.js"></script>
+<script src="~/assets/js/form-validator.min.js"></script>
+<script src="~/assets/js/contact-form-script.min.js"></script>
+<script src="~/assets/js/summernote.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+
+
+</html>
+
+
+  

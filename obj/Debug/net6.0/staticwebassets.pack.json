@@ -1,0 +1,1121 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Souq.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Souq.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\062a0ea3-2b02-4c3a-8082-ef49dc81c28f_51bia84JhhL._AC_UF894,1000_QL80_Tablet.4.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\062a0ea3-2b02-4c3a-8082-ef49dc81c28f_51bia84JhhL._AC_UF894,1000_QL80_Tablet.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\0fcf1502-7a49-42c1-8e31-73293c026db1_download-phone.1.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\0fcf1502-7a49-42c1-8e31-73293c026db1_download-phone.1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\17b7fbe9-099c-4da0-b805-9239d7409146_samsung-galaxy-book-3-ultra-08-labtop.4.webp",
+      "PackagePath": "staticwebassets\\Imgs\\17b7fbe9-099c-4da0-b805-9239d7409146_samsung-galaxy-book-3-ultra-08-labtop.4.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\1c607f87-f913-40bd-9b9d-95801d5a897c_download-phone.2.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\1c607f87-f913-40bd-9b9d-95801d5a897c_download-phone.2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\2a232acb-0b0d-40ee-a6d2-e469edce1304_51bia84JhhL._AC_UF894,1000_QL80_Tablet.4.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\2a232acb-0b0d-40ee-a6d2-e469edce1304_51bia84JhhL._AC_UF894,1000_QL80_Tablet.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\2c168a9e-0c4f-45d8-ae60-9b304b5384e0_firework-m.gif",
+      "PackagePath": "staticwebassets\\Imgs\\2c168a9e-0c4f-45d8-ae60-9b304b5384e0_firework-m.gif"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\30fe6bdf-575b-4023-92dd-9901cbfc95a6_alt-ipad-3-removebg-preview-Tablet.3.webp",
+      "PackagePath": "staticwebassets\\Imgs\\30fe6bdf-575b-4023-92dd-9901cbfc95a6_alt-ipad-3-removebg-preview-Tablet.3.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\364e4459-ebf8-4e17-aeb8-3caf136342c0_myPhoto.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\364e4459-ebf8-4e17-aeb8-3caf136342c0_myPhoto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\38705527-8270-4a55-b894-434c03577dbd_matebookd16-2024-kv-labtop.3.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\38705527-8270-4a55-b894-434c03577dbd_matebookd16-2024-kv-labtop.3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\499b876b-de5b-4f41-9e66-9a782f357247_51bia84JhhL._AC_UF894,1000_QL80_Tablet.4.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\499b876b-de5b-4f41-9e66-9a782f357247_51bia84JhhL._AC_UF894,1000_QL80_Tablet.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\4c287673-53ce-4578-9f8c-9a207d0a1f2d_51bia84JhhL._AC_UF894,1000_QL80_Tablet.4.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\4c287673-53ce-4578-9f8c-9a207d0a1f2d_51bia84JhhL._AC_UF894,1000_QL80_Tablet.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\4c80de75-a3fe-4dd6-b68f-c90949328572_51bia84JhhL._AC_UF894,1000_QL80_Tablet.4.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\4c80de75-a3fe-4dd6-b68f-c90949328572_51bia84JhhL._AC_UF894,1000_QL80_Tablet.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\4fb7c9dc-5f03-48af-9b3b-92c289901d81_X10PLUSAZUREBLUE-Tablet.1.webp",
+      "PackagePath": "staticwebassets\\Imgs\\4fb7c9dc-5f03-48af-9b3b-92c289901d81_X10PLUSAZUREBLUE-Tablet.1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\4fe6255f-0462-4ef9-8c9c-92cf792c8b8c_Product-Image-Galaxy-Tab-S6-2-Tablet.5.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\4fe6255f-0462-4ef9-8c9c-92cf792c8b8c_Product-Image-Galaxy-Tab-S6-2-Tablet.5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\571b07fc-8307-4c4a-a23f-81596b7dc20d_together.png",
+      "PackagePath": "staticwebassets\\Imgs\\571b07fc-8307-4c4a-a23f-81596b7dc20d_together.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\5db296d3-d859-4b4c-85f6-21e769d0f565_Product-Image-Galaxy-Tab-S6-2-Tablet.5.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\5db296d3-d859-4b4c-85f6-21e769d0f565_Product-Image-Galaxy-Tab-S6-2-Tablet.5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\5f2978f5-ad29-4751-a554-b5cd2895de24_1100_1-TV.3.avif",
+      "PackagePath": "staticwebassets\\Imgs\\5f2978f5-ad29-4751-a554-b5cd2895de24_1100_1-TV.3.avif"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\5fc77f3a-0fd6-42db-8099-c1e5b7590e00_Souq.iconUP.png",
+      "PackagePath": "staticwebassets\\Imgs\\5fc77f3a-0fd6-42db-8099-c1e5b7590e00_Souq.iconUP.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\6189c24e-561a-43fc-a676-adceb6950d41_phone_28_1-Tablet.4.avif",
+      "PackagePath": "staticwebassets\\Imgs\\6189c24e-561a-43fc-a676-adceb6950d41_phone_28_1-Tablet.4.avif"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\65165981-541b-48cd-b01d-ba9d78a3116f_51bia84JhhL._AC_UF894,1000_QL80_Tablet.4.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\65165981-541b-48cd-b01d-ba9d78a3116f_51bia84JhhL._AC_UF894,1000_QL80_Tablet.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\665b39ec-b87c-4a16-a2c6-a575f2da6bd7_sony-x900h-1601528596343_160w-TV.1.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\665b39ec-b87c-4a16-a2c6-a575f2da6bd7_sony-x900h-1601528596343_160w-TV.1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\66dc553b-f8cc-40ec-b058-0c312a3ccb59_notebook-latitude-15-5540-nt-rgb-silver-gallery-1-labtop.5.avif",
+      "PackagePath": "staticwebassets\\Imgs\\66dc553b-f8cc-40ec-b058-0c312a3ccb59_notebook-latitude-15-5540-nt-rgb-silver-gallery-1-labtop.5.avif"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\69607f47-f848-44b5-af48-f082355a3e5e_download.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\69607f47-f848-44b5-af48-f082355a3e5e_download.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\6a74a1c0-85ee-4661-ad00-adce5e7dc98e_Souq.iconUP.png",
+      "PackagePath": "staticwebassets\\Imgs\\6a74a1c0-85ee-4661-ad00-adce5e7dc98e_Souq.iconUP.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\71becc9f-ed9c-46f9-bc3c-ded69c5a8204_How-to-Choose-a-Laptop-August-2023-Gear-labtop.1.webp",
+      "PackagePath": "staticwebassets\\Imgs\\71becc9f-ed9c-46f9-bc3c-ded69c5a8204_How-to-Choose-a-Laptop-August-2023-Gear-labtop.1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\7573fbda-b151-4647-b073-c363731d2564_design-medium-TV.4.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\7573fbda-b151-4647-b073-c363731d2564_design-medium-TV.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\79b21257-f716-440c-9272-6f6959ef9972_71bHAD4w39L._AC_UF1000,1000_QL80_-phone.5.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\79b21257-f716-440c-9272-6f6959ef9972_71bHAD4w39L._AC_UF1000,1000_QL80_-phone.5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\868460c0-e58e-4f1c-a99c-378d1edfef79_alt-ipad-3-removebg-preview-Tablet.3.webp",
+      "PackagePath": "staticwebassets\\Imgs\\868460c0-e58e-4f1c-a99c-378d1edfef79_alt-ipad-3-removebg-preview-Tablet.3.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\878e87a9-014d-49a9-8182-e22f94629b66_1100_1-TV.3.avif",
+      "PackagePath": "staticwebassets\\Imgs\\878e87a9-014d-49a9-8182-e22f94629b66_1100_1-TV.3.avif"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\8858dd22-6c1b-4ba7-a704-5c9c97039649_myPhoto.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\8858dd22-6c1b-4ba7-a704-5c9c97039649_myPhoto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\8cf03807-a181-407e-b432-235d5627b220_X10PLUSAZUREBLUE-Tablet.1.webp",
+      "PackagePath": "staticwebassets\\Imgs\\8cf03807-a181-407e-b432-235d5627b220_X10PLUSAZUREBLUE-Tablet.1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\8d24ad50-b791-42d4-87a6-5f93aa14d037_download-TV.2.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\8d24ad50-b791-42d4-87a6-5f93aa14d037_download-TV.2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\99ca8b98-403c-430a-80b2-f5ff11d7f075_alt-ipad-3-removebg-preview-Tablet.3.webp",
+      "PackagePath": "staticwebassets\\Imgs\\99ca8b98-403c-430a-80b2-f5ff11d7f075_alt-ipad-3-removebg-preview-Tablet.3.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\9b8ecc70-d532-4e52-a471-33874f6dc810_alt-ipad-3-removebg-preview-Tablet.3.webp",
+      "PackagePath": "staticwebassets\\Imgs\\9b8ecc70-d532-4e52-a471-33874f6dc810_alt-ipad-3-removebg-preview-Tablet.3.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\9e5f6e1f-9c89-4aae-8165-b3f23719801e_61Qe0euJJZL._AC_UF1000,1000_QL80_-labtop.2.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\9e5f6e1f-9c89-4aae-8165-b3f23719801e_61Qe0euJJZL._AC_UF1000,1000_QL80_-labtop.2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\a4743587-69af-48f0-813e-b344da1386ac_alt-ipad-3-removebg-preview-Tablet.3.webp",
+      "PackagePath": "staticwebassets\\Imgs\\a4743587-69af-48f0-813e-b344da1386ac_alt-ipad-3-removebg-preview-Tablet.3.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\a97ce1c0-eec0-4eb4-a9f5-ae76d8ea215f_X10PLUSAZUREBLUE-Tablet.1.webp",
+      "PackagePath": "staticwebassets\\Imgs\\a97ce1c0-eec0-4eb4-a9f5-ae76d8ea215f_X10PLUSAZUREBLUE-Tablet.1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\b2dcec9e-3d16-4548-a930-8d229baf8b7c_smartKids.gif",
+      "PackagePath": "staticwebassets\\Imgs\\b2dcec9e-3d16-4548-a930-8d229baf8b7c_smartKids.gif"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\b47b1fec-bc2e-4b95-b856-5b9c001b3806_phone_28_1-Tablet.4.avif",
+      "PackagePath": "staticwebassets\\Imgs\\b47b1fec-bc2e-4b95-b856-5b9c001b3806_phone_28_1-Tablet.4.avif"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\b558a607-942c-4fc7-856a-dbcb417020ca_iiiGKjNvR933Ajs6sYS43k-TV.5.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\b558a607-942c-4fc7-856a-dbcb417020ca_iiiGKjNvR933Ajs6sYS43k-TV.5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\b640c665-041a-4ee8-9eec-9c8eace4d90c_Product-Image-Galaxy-Tab-S6-2-Tablet.5.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\b640c665-041a-4ee8-9eec-9c8eace4d90c_Product-Image-Galaxy-Tab-S6-2-Tablet.5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\b74a197a-3774-43fc-8fce-76570a10bdcd_design-medium-TV.3.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\b74a197a-3774-43fc-8fce-76570a10bdcd_design-medium-TV.3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\b7f6252b-f71f-4dda-9722-dfa2808c780c_DSC_0877.webp",
+      "PackagePath": "staticwebassets\\Imgs\\b7f6252b-f71f-4dda-9722-dfa2808c780c_DSC_0877.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\ba29b624-ae73-4491-9231-cf3050e015f3_51Nk+PloObL-Tablet.2.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\ba29b624-ae73-4491-9231-cf3050e015f3_51Nk+PloObL-Tablet.2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\bbafd1e7-bb61-49e5-a458-a68eb5025d8a_iphone-13-pro-review-dan-baker-35.webp",
+      "PackagePath": "staticwebassets\\Imgs\\bbafd1e7-bb61-49e5-a458-a68eb5025d8a_iphone-13-pro-review-dan-baker-35.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\bcb76d05-618b-4fc2-8a9f-9efc6871fd83_51Nk+PloObL-Tablet.2.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\bcb76d05-618b-4fc2-8a9f-9efc6871fd83_51Nk+PloObL-Tablet.2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\c043b9a8-2d00-46d5-8464-93409012309e_smartKids.gif",
+      "PackagePath": "staticwebassets\\Imgs\\c043b9a8-2d00-46d5-8464-93409012309e_smartKids.gif"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\c0c90021-fa1b-4f02-a28b-6249fc9bc8be_Product-Image-Galaxy-Tab-S6-2-Tablet.5.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\c0c90021-fa1b-4f02-a28b-6249fc9bc8be_Product-Image-Galaxy-Tab-S6-2-Tablet.5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\c60574af-c270-4eee-b213-8560a8b39d2e_zflip3_colorselection_gray_mo-phone.3.webp",
+      "PackagePath": "staticwebassets\\Imgs\\c60574af-c270-4eee-b213-8560a8b39d2e_zflip3_colorselection_gray_mo-phone.3.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\d062183b-e469-4b99-b1b7-17b43ec4e6db_X10PLUSAZUREBLUE-Tablet.1.webp",
+      "PackagePath": "staticwebassets\\Imgs\\d062183b-e469-4b99-b1b7-17b43ec4e6db_X10PLUSAZUREBLUE-Tablet.1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\d1053bc2-2df9-495c-9581-ed0ab2c66f72_51Nk+PloObL-Tablet.2.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\d1053bc2-2df9-495c-9581-ed0ab2c66f72_51Nk+PloObL-Tablet.2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\d65727ab-04f3-4bd6-9436-bd8f41dc35e6_Darrow.png",
+      "PackagePath": "staticwebassets\\Imgs\\d65727ab-04f3-4bd6-9436-bd8f41dc35e6_Darrow.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\d82dd46a-d0b4-4bd5-b607-ec15dc3a1f23_ZooApp.png",
+      "PackagePath": "staticwebassets\\Imgs\\d82dd46a-d0b4-4bd5-b607-ec15dc3a1f23_ZooApp.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\d9b40f98-49f0-4829-9661-0c06db4c3761_notebook-latitude-15-5540-nt-rgb-silver-gallery-1-labtop.5.avif",
+      "PackagePath": "staticwebassets\\Imgs\\d9b40f98-49f0-4829-9661-0c06db4c3761_notebook-latitude-15-5540-nt-rgb-silver-gallery-1-labtop.5.avif"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\defcea51-87a1-4f01-913f-3947375e3023_together.png",
+      "PackagePath": "staticwebassets\\Imgs\\defcea51-87a1-4f01-913f-3947375e3023_together.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\e2f872fa-bb2e-44a3-af23-bb9513690b84_61Qe0euJJZL._AC_UF1000,1000_QL80_-labtop.2.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\e2f872fa-bb2e-44a3-af23-bb9513690b84_61Qe0euJJZL._AC_UF1000,1000_QL80_-labtop.2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\e451dd64-8d9a-4758-acca-73ced61ed271_How-to-Choose-a-Laptop-August-2023-Gear-labtop.1.webp",
+      "PackagePath": "staticwebassets\\Imgs\\e451dd64-8d9a-4758-acca-73ced61ed271_How-to-Choose-a-Laptop-August-2023-Gear-labtop.1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\e7880c54-6843-4804-b4f2-5187cd0d6f77_519kd91tLtS-phone.4.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\e7880c54-6843-4804-b4f2-5187cd0d6f77_519kd91tLtS-phone.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\e8a06bb7-6daa-4576-bd55-d899723883e7_icons8-add-to-cart-80.png",
+      "PackagePath": "staticwebassets\\Imgs\\e8a06bb7-6daa-4576-bd55-d899723883e7_icons8-add-to-cart-80.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\f1257df7-bdbd-4cd3-92fd-f546924c72c8_samsung-galaxy-book-3-ultra-08-labtop.4.webp",
+      "PackagePath": "staticwebassets\\Imgs\\f1257df7-bdbd-4cd3-92fd-f546924c72c8_samsung-galaxy-book-3-ultra-08-labtop.4.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\fcebeae7-9ca8-44fc-9170-a4105ca101cd_51Nk+PloObL-Tablet.2.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\fcebeae7-9ca8-44fc-9170-a4105ca101cd_51Nk+PloObL-Tablet.2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assetsAdmin\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\css\\style.css",
+      "PackagePath": "staticwebassets\\assetsAdmin\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\img\\user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\js\\main.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\lib\\chart\\chart.min.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\lib\\chart\\chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\assetsAdmin\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\assetsAdmin\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\assetsAdmin\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assetsAdmin\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\assetsAdmin\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\assetsAdmin\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\assetsAdmin\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\assetsAdmin\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\assetsAdmin\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\assetsAdmin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\assetsAdmin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\assetsAdmin\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assetsAdmin\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\css\\color-switcher.css",
+      "PackagePath": "staticwebassets\\assets\\css\\color-switcher.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\css\\font\\summernote4c4d.eot",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\summernote4c4d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\css\\font\\summernote4c4d.ttf",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\summernote4c4d.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\css\\font\\summernote4c4d.woff",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\summernote4c4d.woff"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\css\\font\\summernoted41d.eot",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\summernoted41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\css\\owl.video.play.html",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.video.play.html"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\assets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\css\\slicknav.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slicknav.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\css\\summernote.css",
+      "PackagePath": "staticwebassets\\assets\\css\\summernote.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\fonts\\LineIcons0ad2.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\LineIcons0ad2.eot"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\fonts\\LineIcons0ad2.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\LineIcons0ad2.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\fonts\\LineIcons0ad2.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\LineIcons0ad2.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\fonts\\LineIcons0ad2.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\LineIcons0ad2.woff"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\fonts\\line-icons.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\line-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\Souq.icon1-removebg-preview.png",
+      "PackagePath": "staticwebassets\\assets\\img\\Souq.icon1-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\Souq.icon1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\Souq.icon1.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\Souq.iconUP.png",
+      "PackagePath": "staticwebassets\\assets\\img\\Souq.iconUP.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\about\\about.png",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\about.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\author\\img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\author\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\background\\counter-back1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\background\\counter-back1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\banner1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\blog\\blog1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\blog\\blog2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\blog\\blog3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\blog\\img-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\blog\\img-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\blog\\img-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\blog\\thumb1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\thumb1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\blog\\thumb2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\thumb2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\blog\\thumb3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\thumb3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\blog\\thumb4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\thumb4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\blog\\thumb5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\thumb5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\blog\\user1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\user1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\blog\\user2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\user2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\blog\\user3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\user3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\category\\img-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\category\\img-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\category\\img-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\category\\img-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\category\\img-3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\category\\img-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\category\\img-4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\category\\img-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\category\\img-5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\category\\img-5.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\category\\img-6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\category\\img-6.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\cities\\img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cities\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\cities\\img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cities\\img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\cities\\img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cities\\img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\cities\\img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cities\\img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\cities\\img5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cities\\img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\cities\\img6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cities\\img6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\details\\img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\details\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\details\\img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\details\\img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\details\\img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\details\\img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\details\\img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\details\\img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\details\\img5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\details\\img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\featured\\img-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\featured\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\featured\\img-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\featured\\img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\featured\\img-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\featured\\img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\featured\\img-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\featured\\img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\featured\\img-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\featured\\img-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\featured\\img-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\featured\\img-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\hero-area.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\hero-area.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\icons8-add-to-cart-80.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons8-add-to-cart-80.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\icons8-online-50.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons8-online-50.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\icons8-shopify-50.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons8-shopify-50.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\product\\img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\product\\img10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\img10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\product\\img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\product\\img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\product\\img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\product\\img5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\product\\img6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\img6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\product\\img7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\img7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\product\\img8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\img8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\product\\img9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\img9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\productinfo\\agent.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\productinfo\\agent.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\productinfo\\img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\productinfo\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\productinfo\\img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\productinfo\\img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\productinfo\\img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\productinfo\\img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\slider\\slider-bg1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\slider-bg1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\slider\\slider-bg2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\slider-bg2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\slider\\slider-bg3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\slider-bg3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\testimonial\\img1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial\\img1.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\testimonial\\img2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial\\img2.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\testimonial\\img3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial\\img3.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\testimonial\\img4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial\\img4.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\testimonial\\img5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial\\img5.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\js\\color-switcher.js",
+      "PackagePath": "staticwebassets\\assets\\js\\color-switcher.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\js\\contact-form-script.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\contact-form-script.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\js\\form-validator.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\form-validator.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\js\\jquery-min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\js\\jquery.slicknav.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.slicknav.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\js\\summernote.js",
+      "PackagePath": "staticwebassets\\assets\\js\\summernote.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\js\\wow.js",
+      "PackagePath": "staticwebassets\\assets\\js\\wow.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Souq.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Souq.props",
+      "PackagePath": "build\\Souq.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Souq.props",
+      "PackagePath": "buildMultiTargeting\\Souq.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Souq.props",
+      "PackagePath": "buildTransitive\\Souq.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
