@@ -1440,6 +1440,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\img\testimonial\img5.png))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\img\user.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>Souq</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Souq</BasePath>
+      <RelativePath>assets/img/user.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\img\user.png))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\js\bootstrap.min.js))">
       <SourceType>Package</SourceType>
       <SourceId>Souq</SourceId>
@@ -3408,6 +3424,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assetsAdmin\scss\bootstrap\scss\_variables.scss))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Imgs\005d0c54-994b-421d-846e-856efaf4911c_user.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>Souq</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Souq</BasePath>
+      <RelativePath>Imgs/005d0c54-994b-421d-846e-856efaf4911c_user.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Imgs\005d0c54-994b-421d-846e-856efaf4911c_user.png))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Imgs\062a0ea3-2b02-4c3a-8082-ef49dc81c28f_51bia84JhhL._AC_UF894,1000_QL80_Tablet.4.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>Souq</SourceId>
@@ -3423,6 +3455,22 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Imgs\062a0ea3-2b02-4c3a-8082-ef49dc81c28f_51bia84JhhL._AC_UF894,1000_QL80_Tablet.4.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Imgs\0cafc21a-aa16-48e0-b3cd-64c5e6852a66_user.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>Souq</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Souq</BasePath>
+      <RelativePath>Imgs/0cafc21a-aa16-48e0-b3cd-64c5e6852a66_user.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Imgs\0cafc21a-aa16-48e0-b3cd-64c5e6852a66_user.png))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Imgs\0fcf1502-7a49-42c1-8e31-73293c026db1_download-phone.1.jpg))">
       <SourceType>Package</SourceType>
@@ -3455,6 +3503,22 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Imgs\17b7fbe9-099c-4da0-b805-9239d7409146_samsung-galaxy-book-3-ultra-08-labtop.4.webp))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Imgs\1996a06d-f5a8-47b8-a91b-a2a2065e85b6_...TEST....jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Souq</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Souq</BasePath>
+      <RelativePath>Imgs/1996a06d-f5a8-47b8-a91b-a2a2065e85b6_...TEST....jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Imgs\1996a06d-f5a8-47b8-a91b-a2a2065e85b6_...TEST....jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Imgs\1c607f87-f913-40bd-9b9d-95801d5a897c_download-phone.2.jpg))">
       <SourceType>Package</SourceType>
@@ -3520,6 +3584,38 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Imgs\30fe6bdf-575b-4023-92dd-9901cbfc95a6_alt-ipad-3-removebg-preview-Tablet.3.webp))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Imgs\32509fef-d583-461e-b819-a41c3bb06295_71bHAD4w39L._AC_UF1000,1000_QL80_-phone.5.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Souq</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Souq</BasePath>
+      <RelativePath>Imgs/32509fef-d583-461e-b819-a41c3bb06295_71bHAD4w39L._AC_UF1000,1000_QL80_-phone.5.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Imgs\32509fef-d583-461e-b819-a41c3bb06295_71bHAD4w39L._AC_UF1000,1000_QL80_-phone.5.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Imgs\360f0d6e-3da8-484c-9c24-60975e2b330f_iiiGKjNvR933Ajs6sYS43k-TV.5.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Souq</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Souq</BasePath>
+      <RelativePath>Imgs/360f0d6e-3da8-484c-9c24-60975e2b330f_iiiGKjNvR933Ajs6sYS43k-TV.5.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Imgs\360f0d6e-3da8-484c-9c24-60975e2b330f_iiiGKjNvR933Ajs6sYS43k-TV.5.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Imgs\364e4459-ebf8-4e17-aeb8-3caf136342c0_myPhoto.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>Souq</SourceId>
@@ -3551,6 +3647,22 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Imgs\38705527-8270-4a55-b894-434c03577dbd_matebookd16-2024-kv-labtop.3.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Imgs\3a1a98bf-c949-4baf-a3cd-cdf2af40ec28_user.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>Souq</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Souq</BasePath>
+      <RelativePath>Imgs/3a1a98bf-c949-4baf-a3cd-cdf2af40ec28_user.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Imgs\3a1a98bf-c949-4baf-a3cd-cdf2af40ec28_user.png))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Imgs\499b876b-de5b-4f41-9e66-9a782f357247_51bia84JhhL._AC_UF894,1000_QL80_Tablet.4.jpg))">
       <SourceType>Package</SourceType>
@@ -3712,6 +3824,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Imgs\6189c24e-561a-43fc-a676-adceb6950d41_phone_28_1-Tablet.4.avif))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Imgs\64f3afdd-a600-45b3-959e-67ca78b0a674_user.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>Souq</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Souq</BasePath>
+      <RelativePath>Imgs/64f3afdd-a600-45b3-959e-67ca78b0a674_user.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Imgs\64f3afdd-a600-45b3-959e-67ca78b0a674_user.png))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Imgs\65165981-541b-48cd-b01d-ba9d78a3116f_51bia84JhhL._AC_UF894,1000_QL80_Tablet.4.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>Souq</SourceId>
@@ -3727,6 +3855,22 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Imgs\65165981-541b-48cd-b01d-ba9d78a3116f_51bia84JhhL._AC_UF894,1000_QL80_Tablet.4.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Imgs\6534878b-b7e6-4c16-a0e7-92129ad91ff8_download-phone.1.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Souq</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Souq</BasePath>
+      <RelativePath>Imgs/6534878b-b7e6-4c16-a0e7-92129ad91ff8_download-phone.1.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Imgs\6534878b-b7e6-4c16-a0e7-92129ad91ff8_download-phone.1.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Imgs\665b39ec-b87c-4a16-a2c6-a575f2da6bd7_sony-x900h-1601528596343_160w-TV.1.jpg))">
       <SourceType>Package</SourceType>
@@ -3792,6 +3936,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Imgs\6a74a1c0-85ee-4661-ad00-adce5e7dc98e_Souq.iconUP.png))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Imgs\6e94b216-bf09-447c-93f4-bbfd378bdb61_...TEST....jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Souq</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Souq</BasePath>
+      <RelativePath>Imgs/6e94b216-bf09-447c-93f4-bbfd378bdb61_...TEST....jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Imgs\6e94b216-bf09-447c-93f4-bbfd378bdb61_...TEST....jpg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Imgs\71becc9f-ed9c-46f9-bc3c-ded69c5a8204_How-to-Choose-a-Laptop-August-2023-Gear-labtop.1.webp))">
       <SourceType>Package</SourceType>
       <SourceId>Souq</SourceId>
@@ -3839,6 +3999,22 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Imgs\79b21257-f716-440c-9272-6f6959ef9972_71bHAD4w39L._AC_UF1000,1000_QL80_-phone.5.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Imgs\85bf99e0-2a68-48a8-92d9-e5f95e4a279c_design-medium-TV.3.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Souq</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Souq</BasePath>
+      <RelativePath>Imgs/85bf99e0-2a68-48a8-92d9-e5f95e4a279c_design-medium-TV.3.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Imgs\85bf99e0-2a68-48a8-92d9-e5f95e4a279c_design-medium-TV.3.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Imgs\868460c0-e58e-4f1c-a99c-378d1edfef79_alt-ipad-3-removebg-preview-Tablet.3.webp))">
       <SourceType>Package</SourceType>
@@ -3919,6 +4095,22 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Imgs\8d24ad50-b791-42d4-87a6-5f93aa14d037_download-TV.2.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Imgs\92c566e9-6dd8-4252-b406-304ab9d6df3d_61Qe0euJJZL._AC_UF1000,1000_QL80_-labtop.2.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Souq</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Souq</BasePath>
+      <RelativePath>Imgs/92c566e9-6dd8-4252-b406-304ab9d6df3d_61Qe0euJJZL._AC_UF1000,1000_QL80_-labtop.2.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Imgs\92c566e9-6dd8-4252-b406-304ab9d6df3d_61Qe0euJJZL._AC_UF1000,1000_QL80_-labtop.2.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Imgs\99ca8b98-403c-430a-80b2-f5ff11d7f075_alt-ipad-3-removebg-preview-Tablet.3.webp))">
       <SourceType>Package</SourceType>
@@ -4351,6 +4543,22 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Imgs\e8a06bb7-6daa-4576-bd55-d899723883e7_icons8-add-to-cart-80.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Imgs\eeb1dced-5386-4f38-97c9-9acc43accf07_DSC_0877.webp))">
+      <SourceType>Package</SourceType>
+      <SourceId>Souq</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Souq</BasePath>
+      <RelativePath>Imgs/eeb1dced-5386-4f38-97c9-9acc43accf07_DSC_0877.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Imgs\eeb1dced-5386-4f38-97c9-9acc43accf07_DSC_0877.webp))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Imgs\f1257df7-bdbd-4cd3-92fd-f546924c72c8_samsung-galaxy-book-3-ultra-08-labtop.4.webp))">
       <SourceType>Package</SourceType>

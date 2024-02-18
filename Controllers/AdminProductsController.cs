@@ -192,24 +192,44 @@ namespace Souq.Controllers
             return View(product);
         }
 
-        // POST: AdminProducts/Delete/5
-        [HttpPost, ActionName("Delete")]
+        [HttpPost, ActionName("DeleteConfirmed")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
             if (_context.Products == null)
             {
-                return Problem("Entity set 'ApplicationDbContext.Products'  is null.");
+                return Problem("Entity set 'ApplicationDbContext.Products' is null.");
             }
+
             var product = await _context.Products.FindAsync(id);
-            if (product != null)
+            if (product == null)
             {
-                _context.Products.Remove(product);
+                return NotFound();
             }
-            
+
+            // Delete related records in the Carts table
+            var relatedCarts = _context.Carts.Where(c => c.ProductId == id);
+            _context.Carts.RemoveRange(relatedCarts);
+
+            // Delete the associated image file
+            if (!string.IsNullOrEmpty(product.Image))
+            {
+                string wwwRootPath = _webHostEnvironment.WebRootPath;
+                string imagePath = Path.Combine(wwwRootPath, "Imgs", product.Image);
+
+                if (System.IO.File.Exists(imagePath))
+                {
+                    System.IO.File.Delete(imagePath);
+                }
+            }
+
+            // Finally, delete the product
+            _context.Products.Remove(product);
             await _context.SaveChangesAsync();
+
             return RedirectToAction(nameof(Index));
         }
+
 
         private bool ProductExists(int id)
         {

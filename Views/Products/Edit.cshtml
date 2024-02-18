@@ -17,51 +17,7 @@
 </div>
 
 <hr />
-@* <div class="row">
-    <div class="col-md-4">
-        <form asp-action="Edit">
-            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <input type="hidden" asp-for="Id" />
-            <div class="form-group">
-                <label asp-for="Name" class="control-label"></label>
-                <input asp-for="Name" class="form-control" />
-                <span asp-validation-for="Name" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="Description" class="control-label"></label>
-                <input asp-for="Description" class="form-control" />
-                <span asp-validation-for="Description" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="Price" class="control-label"></label>
-                <input asp-for="Price" class="form-control" />
-                <span asp-validation-for="Price" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="CreatedDate" class="control-label"></label>
-                <input asp-for="CreatedDate" class="form-control" />
-                <span asp-validation-for="CreatedDate" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="Image" class="control-label"></label>
-                <input asp-for="Image" class="form-control" />
-                <span asp-validation-for="Image" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="CategoryId" class="control-label"></label>
-                <select asp-for="CategoryId" class="form-control" asp-items="ViewBag.CategoryId"></select>
-                <span asp-validation-for="CategoryId" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <input type="submit" value="Save" class="btn btn-primary" />
-            </div>
-        </form>
-    </div>
-</div>
 
-<div>
-    <a asp-action="Index">Back to List</a>
-</div> *@
 
 <div id="content" class="section-padding">
     <div class="container">
@@ -71,7 +27,8 @@
                     <div class="sidebar-box">
                         <div class="user">
                             <figure>
-                                <a href="#"><img src="/assets/img/author/img1.jpg" alt=""></a>
+
+                                <a href="#"> <img src="~/assets/img/user.png" width="50" /> </a>
                             </figure>
                             <div class="usercontent">
                                 <h3>@Model.UserID</h3>
@@ -138,11 +95,6 @@
                                     <label asp-for="CategoryId" class="control-label"></label>
                                     <select asp-for="CategoryId" class="form-control" asp-items="ViewBag.CategoryId"></select>
                                     <span asp-validation-for="CategoryId" class="text-danger"></span>
-                                </div>
-                                <div class="form-group">
-                                    <label asp-for="UserID" class="control-label"></label>
-                                    <input asp-for="UserID" class="form-control" />
-                                    <span asp-validation-for="UserID" class="text-danger"></span>
                                 </div>
                                 <label class="tg-fileuploadlabel" for="tg-photogallery">
                                     <span>Drop files anywhere to upload</span>

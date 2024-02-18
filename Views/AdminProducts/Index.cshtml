@@ -8,7 +8,16 @@
 <link rel="stylesheet" href="https://cdn.datatables.net/1.13.7/css/jquery.dataTables.css" />
 
 <script src="https://cdn.datatables.net/1.13.7/js/jquery.dataTables.js"></script>
+<style>
+    ::-webkit-scrollbar {
+        width: 10px;
+    }
 
+    ::-webkit-scrollbar-thumb {
+        background-color: #808080; /* color of the scrollbar thumb */
+        border-radius: 5px;
+    }
+</style>
 <script>
     $(document).ready(function () {
         $('#myTable').DataTable();
@@ -19,6 +28,9 @@
 <table class="table" id="myTable">
     <thead>
         <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Image)
+            </th>
             <th>
                 @Html.DisplayNameFor(model => model.Name)
             </th>
@@ -31,9 +43,6 @@
             <th>
                 @Html.DisplayNameFor(model => model.CreatedDate)
             </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Image)
-            </th>
             <th> @Html.DisplayNameFor(model => model.UserID)</th>
             <th>
                 @Html.DisplayNameFor(model => model.category)
@@ -44,21 +53,23 @@
     <tbody>
 @foreach (var item in Model) {
         <tr>
-            <td>
+                <td>
+                    @*   @Html.DisplayFor(modelItem => item.Image) *@
+                    <img width="110" height="70" class="img-fluid" src="~/Imgs/@item.Image" alt="">
+                </td>
+                <td style="width:140px">
                 @Html.DisplayFor(modelItem => item.Name)
             </td>
-            <td>
+                <td style="max-height: 120px; max-width:110px; overflow-y: auto; white-space: nowrap; ">
                 @Html.DisplayFor(modelItem => item.Description)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Price)
+                $@Html.DisplayFor(modelItem => item.Price)
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.CreatedDate)
             </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Image)
-            </td>
+        
                 <td> @Html.DisplayFor(model => item.UserID)</td>
             <td>
                 @Html.DisplayFor(modelItem => item.category.Name)
@@ -66,7 +77,7 @@
             <td>
                     <a class="btn btn-danger" style="background-color:#EB1616" asp-action="Edit" asp-route-id="@item.Id">Edit</a> 
                @*  <a asp-action="Details" asp-route-id="@item.Id">Details</a> | *@
-                    <a class="btn btn-danger" style="background-color:#EB1616; margin-top:5px;" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                    <a class="btn btn-danger" style="background-color:#EB1616; margin-top:3px;" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
             </td>
         </tr>
 }

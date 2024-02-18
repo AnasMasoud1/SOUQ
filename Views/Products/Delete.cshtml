@@ -11,58 +11,49 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="breadcrumb-wrapper">
-                    <h2 class="product-title">Products</h2>
+                    <h2 class="product-title">My Products</h2>
 
                 </div>
             </div>
         </div>
     </div>
 </div>
+<h1 class="section-title"> Delete Products</h1>
+<h3 style="text-align: center; margin-top: 20px;">Are you sure you want to <span style="color: #EB1616;">Delete</span> this Product?</h3>
 
+<table class="custom-table center-table" id="myTable">
+    <thead>
+        <tr>
+            <th>Product Image </th>
+            <th>Product </th>
+            <th>Description </th>
+            <th>Price </th>
+            <th>Date </th>
+            <th>category </th>
+          
+        </tr>
+    </thead>
+    <tbody>
+      
+            <tr>
+            <td> <img width="300" height="250" class="img-fluid" src="~/Imgs/@Model.Image" alt=""> </td>
+            <td>@Model.Name</td>
+            <td>@Html.DisplayFor(model => model.Description)</td>
+            <td>$@Model.Price </td>
+            <td>  @Html.DisplayFor(model => model.CreatedDate)</td>
+            <td>@Html.DisplayFor(model => model.category.Name) </td>
+         
+            </tr>
+        
+    </tbody>
+</table>
+<form asp-action="Delete" style="margin-left:35px; margin-top:15px;">
+    <input type="hidden" asp-for="Id" />
+    <input type="submit" value="Delete" class="btn btn-danger" /> |
+    <a asp-action="Index" style="background-color:#363b4d" class="btn btn-common">Back </a>
+</form>
+<div />
+<br />
+<br />
 
-<section class="featured section-padding">
-    <div class="container">
-        <h1 class="section-title"> Delete Products</h1>
-        <h3>Are you sure you want to delete this Products?</h3>
-        <div class="row">
-
-
-            <div class="col-xs-6 col-sm-6 col-md-6 col-lg-4">
-
-                <div class="featured-box">
-                    <div class="feature-content">
-                        <div class="product">
-                            <a href="#">Electronic &gt; </a>
-                            <a href="#">Cameras</a>
-                        </div>
-                        <h4><a href="ads-details.html">@Html.DisplayFor(model => model.Name) </a></h4>
-                        <div class="meta-tag">
-                            <span>
-                                <a href="#"><i class="lni-user"></i>              @Html.DisplayFor(model => model.UserID)</a>
-                            </span>
-                            <span>
-                                <a href="#"><i class="lni-map-marker"></i>      @Html.DisplayFor(model => model.CreatedDate)</a>
-                            </span>
-                            <span>
-                                <a href="#"><i class="lni-tag"></i>  </a>
-                            </span>
-                        </div>
-                        <p class="dsc">             @Html.DisplayFor(model => model.Description)</p>
-                        <div class="listing-bottom">
-                            <h3 class="price float-left">$@Html.DisplayFor(model => model.Price)</h3>
-
-
-                        </div>
-                    </div>
-
-                    <form asp-action="Delete">
-                        <input type="hidden" asp-for="Id" />
-                        <input type="submit" value="Delete" class="btn btn-danger" /> |
-                        <a asp-action="Index" class="btn btn-common">Back </a>
-                    </form>
-                </div>
-            </div>
-
-        </div>
-    </div>
-</section>
+</div>

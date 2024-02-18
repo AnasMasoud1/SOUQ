@@ -5,8 +5,16 @@
       "PackagePath": "staticwebassets\\Souq.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\005d0c54-994b-421d-846e-856efaf4911c_user.png",
+      "PackagePath": "staticwebassets\\Imgs\\005d0c54-994b-421d-846e-856efaf4911c_user.png"
+    },
+    {
       "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\062a0ea3-2b02-4c3a-8082-ef49dc81c28f_51bia84JhhL._AC_UF894,1000_QL80_Tablet.4.jpg",
       "PackagePath": "staticwebassets\\Imgs\\062a0ea3-2b02-4c3a-8082-ef49dc81c28f_51bia84JhhL._AC_UF894,1000_QL80_Tablet.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\0cafc21a-aa16-48e0-b3cd-64c5e6852a66_user.png",
+      "PackagePath": "staticwebassets\\Imgs\\0cafc21a-aa16-48e0-b3cd-64c5e6852a66_user.png"
     },
     {
       "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\0fcf1502-7a49-42c1-8e31-73293c026db1_download-phone.1.jpg",
@@ -15,6 +23,10 @@
     {
       "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\17b7fbe9-099c-4da0-b805-9239d7409146_samsung-galaxy-book-3-ultra-08-labtop.4.webp",
       "PackagePath": "staticwebassets\\Imgs\\17b7fbe9-099c-4da0-b805-9239d7409146_samsung-galaxy-book-3-ultra-08-labtop.4.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\1996a06d-f5a8-47b8-a91b-a2a2065e85b6_...TEST....jpg",
+      "PackagePath": "staticwebassets\\Imgs\\1996a06d-f5a8-47b8-a91b-a2a2065e85b6_...TEST....jpg"
     },
     {
       "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\1c607f87-f913-40bd-9b9d-95801d5a897c_download-phone.2.jpg",
@@ -33,12 +45,24 @@
       "PackagePath": "staticwebassets\\Imgs\\30fe6bdf-575b-4023-92dd-9901cbfc95a6_alt-ipad-3-removebg-preview-Tablet.3.webp"
     },
     {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\32509fef-d583-461e-b819-a41c3bb06295_71bHAD4w39L._AC_UF1000,1000_QL80_-phone.5.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\32509fef-d583-461e-b819-a41c3bb06295_71bHAD4w39L._AC_UF1000,1000_QL80_-phone.5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\360f0d6e-3da8-484c-9c24-60975e2b330f_iiiGKjNvR933Ajs6sYS43k-TV.5.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\360f0d6e-3da8-484c-9c24-60975e2b330f_iiiGKjNvR933Ajs6sYS43k-TV.5.jpg"
+    },
+    {
       "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\364e4459-ebf8-4e17-aeb8-3caf136342c0_myPhoto.jpg",
       "PackagePath": "staticwebassets\\Imgs\\364e4459-ebf8-4e17-aeb8-3caf136342c0_myPhoto.jpg"
     },
     {
       "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\38705527-8270-4a55-b894-434c03577dbd_matebookd16-2024-kv-labtop.3.jpg",
       "PackagePath": "staticwebassets\\Imgs\\38705527-8270-4a55-b894-434c03577dbd_matebookd16-2024-kv-labtop.3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\3a1a98bf-c949-4baf-a3cd-cdf2af40ec28_user.png",
+      "PackagePath": "staticwebassets\\Imgs\\3a1a98bf-c949-4baf-a3cd-cdf2af40ec28_user.png"
     },
     {
       "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\499b876b-de5b-4f41-9e66-9a782f357247_51bia84JhhL._AC_UF894,1000_QL80_Tablet.4.jpg",
@@ -81,8 +105,16 @@
       "PackagePath": "staticwebassets\\Imgs\\6189c24e-561a-43fc-a676-adceb6950d41_phone_28_1-Tablet.4.avif"
     },
     {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\64f3afdd-a600-45b3-959e-67ca78b0a674_user.png",
+      "PackagePath": "staticwebassets\\Imgs\\64f3afdd-a600-45b3-959e-67ca78b0a674_user.png"
+    },
+    {
       "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\65165981-541b-48cd-b01d-ba9d78a3116f_51bia84JhhL._AC_UF894,1000_QL80_Tablet.4.jpg",
       "PackagePath": "staticwebassets\\Imgs\\65165981-541b-48cd-b01d-ba9d78a3116f_51bia84JhhL._AC_UF894,1000_QL80_Tablet.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\6534878b-b7e6-4c16-a0e7-92129ad91ff8_download-phone.1.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\6534878b-b7e6-4c16-a0e7-92129ad91ff8_download-phone.1.jpg"
     },
     {
       "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\665b39ec-b87c-4a16-a2c6-a575f2da6bd7_sony-x900h-1601528596343_160w-TV.1.jpg",
@@ -101,6 +133,10 @@
       "PackagePath": "staticwebassets\\Imgs\\6a74a1c0-85ee-4661-ad00-adce5e7dc98e_Souq.iconUP.png"
     },
     {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\6e94b216-bf09-447c-93f4-bbfd378bdb61_...TEST....jpg",
+      "PackagePath": "staticwebassets\\Imgs\\6e94b216-bf09-447c-93f4-bbfd378bdb61_...TEST....jpg"
+    },
+    {
       "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\71becc9f-ed9c-46f9-bc3c-ded69c5a8204_How-to-Choose-a-Laptop-August-2023-Gear-labtop.1.webp",
       "PackagePath": "staticwebassets\\Imgs\\71becc9f-ed9c-46f9-bc3c-ded69c5a8204_How-to-Choose-a-Laptop-August-2023-Gear-labtop.1.webp"
     },
@@ -111,6 +147,10 @@
     {
       "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\79b21257-f716-440c-9272-6f6959ef9972_71bHAD4w39L._AC_UF1000,1000_QL80_-phone.5.jpg",
       "PackagePath": "staticwebassets\\Imgs\\79b21257-f716-440c-9272-6f6959ef9972_71bHAD4w39L._AC_UF1000,1000_QL80_-phone.5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\85bf99e0-2a68-48a8-92d9-e5f95e4a279c_design-medium-TV.3.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\85bf99e0-2a68-48a8-92d9-e5f95e4a279c_design-medium-TV.3.jpg"
     },
     {
       "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\868460c0-e58e-4f1c-a99c-378d1edfef79_alt-ipad-3-removebg-preview-Tablet.3.webp",
@@ -131,6 +171,10 @@
     {
       "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\8d24ad50-b791-42d4-87a6-5f93aa14d037_download-TV.2.jpg",
       "PackagePath": "staticwebassets\\Imgs\\8d24ad50-b791-42d4-87a6-5f93aa14d037_download-TV.2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\92c566e9-6dd8-4252-b406-304ab9d6df3d_61Qe0euJJZL._AC_UF1000,1000_QL80_-labtop.2.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\92c566e9-6dd8-4252-b406-304ab9d6df3d_61Qe0euJJZL._AC_UF1000,1000_QL80_-labtop.2.jpg"
     },
     {
       "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\99ca8b98-403c-430a-80b2-f5ff11d7f075_alt-ipad-3-removebg-preview-Tablet.3.webp",
@@ -239,6 +283,10 @@
     {
       "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\e8a06bb7-6daa-4576-bd55-d899723883e7_icons8-add-to-cart-80.png",
       "PackagePath": "staticwebassets\\Imgs\\e8a06bb7-6daa-4576-bd55-d899723883e7_icons8-add-to-cart-80.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\eeb1dced-5386-4f38-97c9-9acc43accf07_DSC_0877.webp",
+      "PackagePath": "staticwebassets\\Imgs\\eeb1dced-5386-4f38-97c9-9acc43accf07_DSC_0877.webp"
     },
     {
       "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\Imgs\\f1257df7-bdbd-4cd3-92fd-f546924c72c8_samsung-galaxy-book-3-ultra-08-labtop.4.webp",
@@ -1047,6 +1095,10 @@
     {
       "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\testimonial\\img5.png",
       "PackagePath": "staticwebassets\\assets\\img\\testimonial\\img5.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\img\\user.png",
+      "PackagePath": "staticwebassets\\assets\\img\\user.png"
     },
     {
       "Id": "C:\\Users\\Asus\\source\\repos\\Souq\\wwwroot\\assets\\js\\bootstrap.min.js",

@@ -22,55 +22,7 @@
 @* 
 <p>
     <a asp-action="Create">Create New</a>
-</p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.DateTime)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Price )
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Quentity)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.UserID)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.product.Name)
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.DateTime)
-            </td>
-            <td>
-                    @Html.DisplayFor(modelItem => item.Price )
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Quentity)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.UserID)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.product.Name)
-            </td>
-            <td>
-                    <a asp-action="Edit" class="btn btn-common btn-filters" asp-route-id="@item.Id">Edit</a> |
-                    <a asp-action="Details" class="btn btn-common btn-filters" asp-route-id="@item.Id">Details</a> |
-                    <a asp-action="Delete" class="btn btn-common btn-filters" asp-route-id="@item.Id">Delete</a>
-            </td>
-        </tr>
-}
-    </tbody> *@
-  @*   <a href="/Carts/AddOrder/@item.Id" class="btn btn-common float-right">Check out</a> *@
+</p>*@
 
 </table>
 <section class="featured section-padding">
@@ -113,8 +65,6 @@
 
                             </div>
                         </div>
-                     @*        <a asp-action="Edit" class="btn btn-common btn-filters" asp-route-id="@item.Id">Edit</a> |
-                            <a asp-action="Details" class="btn btn-common btn-filters" asp-route-id="@item.Id">Details</a>  *@
                             <a asp-action="Delete" class="btn btn-common btn-filters" asp-route-id="@item.Id">Delete</a>
                     
                     </div>

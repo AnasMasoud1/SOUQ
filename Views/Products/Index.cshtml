@@ -4,65 +4,69 @@
     ViewData["Title"] = "Index";
 }
 
+<link rel="stylesheet" href="https://cdn.datatables.net/1.13.7/css/jquery.dataTables.css" />
+
+<script src="https://cdn.datatables.net/1.13.7/js/jquery.dataTables.js"></script>
+
+<script>
+    $(document).ready(function () {
+        $('#myTable').DataTable();
+    });</script>
+
+    
+
 <div class="page-header" style="background: url(assets/img/banner1.jpg);">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
                 <div class="breadcrumb-wrapper">
-                    <h2 class="product-title">Products</h2>
+                    <h2 class="product-title">My Products</h2>
 
                 </div>
             </div>
         </div>
     </div>
 </div>
-<section class="featured section-padding">
-    <div class="container">
-        <h1 class="section-title">My Products</h1>
-        <div class="row">
+<div style="width: 90%; margin: 0 auto;">
+<h1 class="section-title">My Products</h1>
 
-            @foreach (var item in Model)
+<table class="custom-table center-table"  id="myTable">
+    <thead>
+        <tr>
+            <th>Product Image </th>
+            <th>Product </th>
+            <th>Description </th>
+            <th>Price </th>
+            <th>Date </th>
+            <th>category </th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+           @foreach (var item in Model)
             {
-                <div class="col-xs-6 col-sm-6 col-md-6 col-lg-4">
-                    <div class="featured-box">
-                        <figure>
-                            <div class="icon">
-                                <span class="bg-green"></span>
-                                <a href="/Carts/AddProductToCart/@item.Id"><img src="~/assets/img/icons8-add-to-cart-80.png" title="Add To Cart" width="50" /></a>
-                            </div>
-
-                            <a href="#"><img class="img-fluid" src="~/Imgs/@item.Image" alt=""></a>
-                        </figure>
-                        <div class="feature-content">
-                         
-                            <h4><a href="ads-details.html">@item.Name</a></h4>
-                            <div class="meta-tag">
-                                <span>
-                                    <a href="#"><i class="lni-user"></i>  @Html.DisplayFor(model => item.UserID)</a>
-                                </span>
-                                <span>
-                                    <a href="#"><i class="lni-map-marker"></i> @Html.DisplayFor(modelItem => item.CreatedDate)</a>
-                                </span>
-                                <span>
-                                    <a href="#"><i class="lni-tag"></i> @Html.DisplayFor(modelItem => item.category.Name)</a>
-                                </span>
-                            </div>
-                            <p class="dsc">@Html.DisplayFor(modelItem => item.Description) .</p>
-                            <div class="listing-bottom">
-                                <h3 class="price float-left">$@item.Price</h3>
-                                <a href="/Home/CurrentProduct/@item.Id" class="btn btn-common float-right">View Details</a>
-
-                            </div>
-                        </div>
-                        <a asp-action="Edit" asp-route-id="@item.Id"    class="btn btn-common">Edit</a>
-                        <a asp-action="Delete" asp-route-id="@item.Id"  class="btn btn-common">Delete</a>
+        <tr>
+                    <td> <img width="400" height="350" class="img-fluid" src="~/Imgs/@item.Image" alt=""> </td>
+                <td>@item.Name</td>
+                <td>@Html.DisplayFor(modelItem => item.Description)</td>
+                <td>$@item.Price </td>
+                <td> @Html.DisplayFor(modelItem => item.CreatedDate)</td>
+                <td>@Html.DisplayFor(modelItem => item.category.Name)</td>
+                <td>
+                    <div class="btns-actions">
+                        <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-common " style="background-color:#363b4d; margin-left:8px"><i class=" lni-pencil"></i></a>
+                        <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger" style="background-color:#EB1616">  <i class="lni-trash"></i>  </a>
                     </div>
-                </div>
+                 </td>
+        </tr>
             }
-          
-        </div>
-        <p>
-            <a asp-action="Create" class="btn btn-common">Create New</a>
-        </p>
-    </div>
-</section>
+    </tbody>
+</table>
+<p>
+    <a asp-action="Create" class="btn btn-common" style="margin-left:35px; margin-top:15px;">Create New</a>
+</p>
+<div/>
+<br />
+<br />
+
+</div>

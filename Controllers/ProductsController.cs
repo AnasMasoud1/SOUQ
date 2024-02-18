@@ -109,7 +109,7 @@ namespace Souq.Controllers
                 return NotFound();
             }
 
-            ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Id", product.CategoryId);
+            ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Name", product.CategoryId);
             return View(product);
         }
 
@@ -120,47 +120,108 @@ namespace Souq.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("Id,Name,Description,Price,CreatedDate,Image,CategoryId,ImageFile,UserID")] Product product)
         {
+            //if (id != product.Id)
+            //{
+            //    return NotFound();
+            //}
+
+            //try
+            //{
+            //    if (ModelState.IsValid)
+            //    {
+            //        if (product.ImageFile != null)
+            //        {
+            //            string wwwRootPath = _webHostEnvironment.WebRootPath;
+            //            string fileName = Guid.NewGuid().ToString() + "_" + product.ImageFile.FileName;
+            //            string extention = Path.GetExtension(product.ImageFile.FileName).ToLower();
+            //            string path = Path.Combine(wwwRootPath + "/Imgs/", fileName);
+
+            //            using (var fileStream = new FileStream(path, FileMode.Create))
+            //            {
+            //                await product.ImageFile.CopyToAsync(fileStream);
+            //            }
+            //            product.Image = fileName;
+            //        }
+
+            //        _context.Update(product);
+            //        await _context.SaveChangesAsync();
+            //        return RedirectToAction(nameof(Index));
+            //    }
+            //}
+            //catch (DbUpdateConcurrencyException)
+            //{
+            //    if (!ProductExists(product.Id))
+            //    {
+            //        return NotFound();
+            //    }
+            //    else
+            //    {
+            //        throw;
+            //    }
+            //}
+
+            //ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Id", product.CategoryId);
+            //return View(product);
+
             if (id != product.Id)
             {
                 return NotFound();
             }
 
-            try
+            if (ModelState.IsValid)
             {
-                if (ModelState.IsValid)
+                if (product.ImageFile != null)
                 {
-                    if (product.ImageFile != null)
-                    {
-                        string wwwRootPath = _webHostEnvironment.WebRootPath;
-                        string fileName = Guid.NewGuid().ToString() + "_" + product.ImageFile.FileName;
-                        string extention = Path.GetExtension(product.ImageFile.FileName).ToLower();
-                        string path = Path.Combine(wwwRootPath + "/Imgs/", fileName);
+                    // If a new image file is provided, save it
+                    string wwwRootPath = _webHostEnvironment.WebRootPath;
+                    string fileName = Guid.NewGuid().ToString() + "_" + product.ImageFile.FileName;
+                    string path = Path.Combine(wwwRootPath, "Imgs", fileName);
 
-                        using (var fileStream = new FileStream(path, FileMode.Create))
-                        {
-                            await product.ImageFile.CopyToAsync(fileStream);
-                        }
-                        product.Image = fileName;
+                    using (var fileStream = new FileStream(path, FileMode.Create))
+                    {
+                        await product.ImageFile.CopyToAsync(fileStream);
                     }
 
-                    _context.Update(product);
-                    await _context.SaveChangesAsync();
-                    return RedirectToAction(nameof(Index));
-                }
-            }
-            catch (DbUpdateConcurrencyException)
-            {
-                if (!ProductExists(product.Id))
-                {
-                    return NotFound();
+                    // Delete the previous image file (if any)
+                    if (!string.IsNullOrEmpty(product.Image))
+                    {
+                        string previousImagePath = Path.Combine(wwwRootPath, "Imgs", product.Image);
+                        if (System.IO.File.Exists(previousImagePath))
+                        {
+                            System.IO.File.Delete(previousImagePath);
+                        }
+                    }
+                    
+                    product.Image = fileName;
                 }
                 else
                 {
-                    throw;
+                    // If no new image file is provided, retain the existing image
+                    var existingProduct = await _context.Products.AsNoTracking().FirstOrDefaultAsync(p => p.Id == product.Id);
+                    product.Image = existingProduct?.Image;
+                    product.UserID = User.Identity.Name;
                 }
+
+                try
+                {
+                    _context.Update(product);
+                    await _context.SaveChangesAsync();
+                }
+                catch (DbUpdateConcurrencyException)
+                {
+                    if (!ProductExists(product.Id))
+                    {
+                        return NotFound();
+                    }
+                    else
+                    {
+                        throw;
+                    }
+                }
+                return RedirectToAction(nameof(Index));
             }
 
-            ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Id", product.CategoryId);
+            ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Name", product.CategoryId);
             return View(product);
         }
 
